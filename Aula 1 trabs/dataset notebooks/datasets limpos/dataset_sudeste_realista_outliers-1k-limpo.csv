@@ -1,0 +1,1001 @@
+id,idade,renda,cidade,categoria,nota,feedback
+1,47.0,19142.87,Rio de Janeiro,A,6.7,Bom
+2,71.0,12223.92,Belo Horizonte,B,5.2,Bom
+3,63.0,30367.01,São Paulo,B,7.7,Bom
+4,86.0,1302.5,São Paulo,A,4.0,Bom
+5,26.0,25154.53,Belo Horizonte,A,6.9,Bom
+6,45.0,35983.35,Vitória,A,6.5,Bom
+7,53.0,2330.22,Rio de Janeiro,Desconhecido,8.3,Desconhecido
+8,58.0,6771.96,Belo Horizonte,A,5.8,Bom
+9,21.0,19197.31,Rio de Janeiro,B,9.5,Bom
+10,49.25480283114257,26861.02,Rio de Janeiro,A,8.9,Bom
+11,71.0,34702.4,Vitória,A,7.2,Bom
+12,61.0,14818.07,Belo Horizonte,B,7.8,Bom
+13,78.0,37558.61,Rio de Janeiro,A,5.7,Bom
+14,37.0,37100.61,São Paulo,B,8.9,Bom
+15,40.0,3376.35,São Paulo,B,6.2,Bom
+16,60.0,3581.88,Rio de Janeiro,A,6.0,Bom
+17,65.0,20423.85,Vitória,A,9.4,Bom
+18,37.0,2157.68,Vitória,A,9.6,Bom
+19,64.0,27196.09,Belo Horizonte,B,6.3,Bom
+20,23.0,13377.12,Vitória,A,5.8,Bom
+21,17.0,13672.56,Vitória,B,6.6,Bom
+22,74.0,34922.7,São Paulo,A,5.3,Bom
+23,56.0,2143.91,Belo Horizonte,A,7.5,Bom
+24,24.0,4199.37,Belo Horizonte,A,9.3,Bom
+25,59.0,22719.64,Vitória,B,5.6,Bom
+26,74.0,32187.49,São Paulo,B,7.5,Bom
+27,69.0,46176.78,Vitória,A,7.9,Bom
+28,46.0,44507.82,Vitória,B,7.7,Bom
+29,22.0,31478.45,São Paulo,B,5.0,Bom
+30,50.0,24089.61,Vitória,B,5.5,Bom
+31,28.0,34884.37,Vitória,B,7.4330303030303035,Desconhecido
+32,71.0,14647.48,São Paulo,B,8.3,Bom
+33,81.0,23790.36,Belo Horizonte,B,8.6,Bom
+34,65.0,45232.6,Belo Horizonte,A,7.9,Bom
+35,33.0,40213.24,São Paulo,B,9.6,Bom
+36,73.0,10639.55,Rio de Janeiro,A,6.9,Bom
+37,21.0,18776.12,Belo Horizonte,B,9.6,Bom
+38,67.0,41188.17,Vitória,B,7.1,Bom
+39,23.0,37514.02,Rio de Janeiro,B,9.7,Bom
+40,24.0,23284.32,São Paulo,A,6.1,Bom
+41,50.0,10077.7,Rio de Janeiro,B,6.2,Bom
+42,81.0,23724.27,Vitória,B,7.1,Bom
+43,81.0,1764.4,São Paulo,B,7.6,Bom
+44,16.0,16801.03,São Paulo,B,7.2,Bom
+45,22.0,41657.23,Rio de Janeiro,B,9.9,Bom
+46,51.0,18368.02,Belo Horizonte,A,5.8,Bom
+47,32.0,46247.57,Belo Horizonte,B,6.8,Bom
+48,69.0,24020.45,Belo Horizonte,A,6.5,Bom
+49,55.0,2893.65,Belo Horizonte,A,7.6,Bom
+50,53.0,21188.13,São Paulo,B,7.9,Bom
+51,63.0,35824.34,Rio de Janeiro,B,6.0,Bom
+52,52.0,16965.3,São Paulo,A,5.5,Bom
+53,54.0,25508.2,Belo Horizonte,B,5.9,Bom
+54,74.0,45725.59,Belo Horizonte,A,6.9,Bom
+55,33.0,36861.71,Rio de Janeiro,B,5.6,Bom
+56,53.0,10949.21,Vitória,B,5.7,Bom
+57,25.0,3784.98,Vitória,B,8.6,Bom
+58,64.0,40223.91,São Paulo,A,5.1,Bom
+59,71.0,15627.34,Rio de Janeiro,A,6.1,Bom
+60,69.0,18856.78,São Paulo,A,6.7,Bom
+61,65.0,26953.53,Belo Horizonte,B,8.3,Bom
+62,51.0,9374.99,Vitória,A,5.4,Bom
+63,23.0,22376.07,Rio de Janeiro,B,9.3,Bom
+64,12.0,892.61,Belo Horizonte,B,0.1,Bom
+65,32.0,7375.17,Rio de Janeiro,A,9.3,Desconhecido
+66,42.0,41212.28,Vitória,A,7.5,Bom
+67,35.0,34980.41,São Paulo,B,9.1,Bom
+68,80.0,27750.61,Rio de Janeiro,A,9.6,Bom
+69,33.0,33173.72,Rio de Janeiro,B,6.0,Bom
+70,29.0,9985.65,Vitória,B,9.1,Bom
+71,65.0,30317.54,São Paulo,A,7.9,Bom
+72,81.0,19965.15,São Paulo,B,7.2,Bom
+73,22.0,9000.73,Rio de Janeiro,A,10.0,Bom
+74,79.0,12852.86,Desconhecido,A,6.6,Bom
+75,38.0,30349.55,Rio de Janeiro,A,6.3,Bom
+76,63.0,7676.65,Rio de Janeiro,B,8.0,Bom
+77,36.0,27259.91,Belo Horizonte,A,8.7,Bom
+78,69.0,30545.98,São Paulo,A,9.4,Bom
+79,70.0,39505.6,São Paulo,B,9.7,Bom
+80,69.0,46118.27,Rio de Janeiro,B,8.3,Bom
+81,38.0,19266.12,Rio de Janeiro,B,6.8,Bom
+82,80.0,36421.96,Rio de Janeiro,B,9.7,Bom
+83,50.0,37472.39,Vitória,B,6.7,Bom
+84,47.0,18131.71,Rio de Janeiro,A,8.2,Bom
+85,42.0,16036.13,Vitória,A,5.1,Bom
+86,77.0,34277.45,Belo Horizonte,A,8.4,Bom
+87,81.0,3202.66,São Paulo,B,5.7,Bom
+88,69.0,19347.36,Vitória,B,9.9,Bom
+89,29.0,30491.19,São Paulo,A,5.1,Bom
+90,70.0,36965.2,Vitória,A,5.2,Bom
+91,51.0,28842.14,São Paulo,A,7.0,Bom
+92,61.0,19031.79,São Paulo,A,9.1,Bom
+93,58.0,43289.17,Belo Horizonte,A,5.1,Bom
+94,46.0,20488.32,Belo Horizonte,B,6.1,Bom
+95,22.0,14055.75,Vitória,B,8.8,Bom
+96,16.0,21086.54,São Paulo,B,8.7,Bom
+97,63.0,37478.67,Belo Horizonte,B,6.2,Bom
+98,71.0,19908.11,São Paulo,A,9.6,Bom
+99,28.0,10879.23,Vitória,A,7.1,Bom
+100,17.0,19713.59,Belo Horizonte,B,8.3,Bom
+101,19.0,42639.15,São Paulo,A,7.8,Bom
+102,43.0,8770.49,São Paulo,B,5.9,Bom
+103,63.0,2255.75,Rio de Janeiro,A,8.1,Bom
+104,40.0,2858.77,Vitória,B,5.9,Bom
+105,55.0,43251.71,Rio de Janeiro,B,8.5,Bom
+106,78.0,26697.54,Belo Horizonte,A,6.8,Bom
+107,74.0,19193.31,São Paulo,B,8.4,Bom
+108,18.0,32865.98,São Paulo,A,7.9,Bom
+109,81.0,4356.53,Vitória,B,5.1,Bom
+110,41.0,42659.24,Vitória,B,7.9,Bom
+111,49.0,36530.69,Belo Horizonte,A,6.1,Bom
+112,19.0,12445.74,Belo Horizonte,B,9.9,Bom
+113,82.0,2419.1,São Paulo,B,6.6,Bom
+114,29.0,43571.84,São Paulo,B,6.8,Bom
+115,22.0,43244.9,Rio de Janeiro,B,6.3,Bom
+116,22.0,30925.71,São Paulo,B,8.3,Bom
+117,46.0,17849.38,Belo Horizonte,A,5.0,Bom
+118,67.0,21019.14,Rio de Janeiro,A,8.9,Bom
+119,27.0,40601.59,São Paulo,B,9.4,Bom
+120,55.0,3301.98,Rio de Janeiro,A,5.0,Bom
+121,28.0,11888.14,Belo Horizonte,A,6.9,Bom
+122,35.0,32194.77,Rio de Janeiro,A,9.8,Bom
+123,16.0,3702.33,Vitória,A,5.4,Bom
+124,24.0,34065.28,São Paulo,B,7.4,Bom
+125,20.0,40735.0,Belo Horizonte,A,8.4,Bom
+126,41.0,21999.8,Rio de Janeiro,B,9.1,Bom
+127,28.0,19643.03,Rio de Janeiro,A,9.6,Bom
+128,58.0,6725.65,São Paulo,A,5.5,Bom
+129,46.0,30387.53,São Paulo,B,7.4,Bom
+130,18.0,36850.3,Vitória,B,7.3,Bom
+131,46.0,6767.14,São Paulo,A,9.9,Bom
+132,40.0,4926.95,Rio de Janeiro,A,6.9,Bom
+133,54.0,10189.61,Vitória,A,8.0,Bom
+134,50.0,19594.95,Belo Horizonte,A,7.7,Bom
+135,25.0,30676.44,Vitória,B,6.8,Bom
+136,26.0,33677.76,Vitória,B,6.1,Bom
+137,26.0,25144.94,Desconhecido,B,9.5,Bom
+138,69.0,3646.87,Rio de Janeiro,B,6.0,Bom
+139,35.0,10830.46,São Paulo,A,9.4,Bom
+140,36.0,17851.37,Vitória,A,8.5,Bom
+141,46.0,1964.62,Vitória,A,6.0,Bom
+142,30.0,24515.61,Rio de Janeiro,A,7.6,Bom
+143,43.0,5023.83,São Paulo,A,9.2,Bom
+144,26.0,26073.45,Vitória,B,7.2,Bom
+145,38.0,14277.73,Rio de Janeiro,A,6.0,Bom
+146,36.0,5009.69,Rio de Janeiro,A,5.2,Bom
+147,36.0,16283.13,São Paulo,B,6.5,Bom
+148,35.0,24099.38,São Paulo,A,10.0,Bom
+149,65.0,13728.04,São Paulo,A,6.8,Bom
+150,59.0,37344.54,Rio de Janeiro,B,6.1,Bom
+151,58.0,2853.36,Belo Horizonte,B,5.2,Bom
+152,63.0,43491.96,Rio de Janeiro,B,8.8,Bom
+153,73.0,32829.95,Belo Horizonte,B,6.4,Bom
+154,16.0,1749.28,Vitória,B,6.1,Bom
+155,48.0,40699.87,Rio de Janeiro,B,8.0,Bom
+156,16.0,5175.1,Belo Horizonte,B,5.7,Bom
+157,32.0,39241.35,Rio de Janeiro,B,9.3,Bom
+158,21.0,29453.21,São Paulo,A,6.6,Bom
+159,33.0,14327.15,Belo Horizonte,B,9.8,Bom
+160,51.0,3300.4,São Paulo,B,7.2,Bom
+161,49.25480283114257,45054.98,São Paulo,A,7.2,Bom
+162,28.0,22472.93,São Paulo,A,6.5,Bom
+163,65.0,7769.21,Vitória,A,7.4,Bom
+164,17.0,12653.85,Vitória,B,6.3,Bom
+165,21.0,9731.56,São Paulo,B,6.2,Bom
+166,71.0,21685.8,São Paulo,A,6.8,Bom
+167,80.0,36367.23,Desconhecido,B,7.7,Bom
+168,36.0,21187.18,São Paulo,B,8.4,Bom
+169,31.0,18503.31,Rio de Janeiro,A,7.5,Bom
+170,16.0,20383.09,São Paulo,B,9.0,Bom
+171,35.0,11227.71,São Paulo,B,8.1,Bom
+172,44.0,27941.34,Belo Horizonte,B,9.1,Bom
+173,47.0,10509.3,São Paulo,A,9.3,Bom
+174,42.0,44581.72,Belo Horizonte,A,9.3,Bom
+175,45.0,39187.71,Vitória,A,6.4,Bom
+176,72.0,25257.51,São Paulo,B,8.7,Bom
+177,57.0,15557.42,Belo Horizonte,A,5.8,Bom
+178,17.0,16453.87,Vitória,B,8.7,Bom
+179,43.0,21648.84,Belo Horizonte,A,9.1,Bom
+180,65.0,34963.75,Rio de Janeiro,A,8.9,Bom
+181,70.0,17516.67,Belo Horizonte,A,8.8,Bom
+182,61.0,37227.51,São Paulo,A,8.5,Bom
+183,70.0,2714.02,Rio de Janeiro,A,5.4,Bom
+184,66.0,27548.57,Rio de Janeiro,A,9.5,Bom
+185,53.0,7827.26,São Paulo,A,5.3,Bom
+186,27.0,38150.24,Belo Horizonte,A,8.7,Bom
+187,55.0,26033.6,São Paulo,B,5.3,Bom
+188,59.0,27980.2,São Paulo,B,6.0,Bom
+189,61.0,44481.11,São Paulo,B,5.7,Bom
+190,58.0,20406.19,Belo Horizonte,B,9.1,Bom
+191,31.0,8640.1,Rio de Janeiro,A,9.0,Bom
+192,76.0,18002.65,Rio de Janeiro,A,8.4,Bom
+193,48.0,40735.3,Vitória,A,7.3,Bom
+194,77.0,10396.43,Rio de Janeiro,B,10.0,Bom
+195,58.0,30656.3,Belo Horizonte,A,5.4,Bom
+196,71.0,24959.62,Belo Horizonte,A,9.8,Bom
+197,43.0,8090.21,Vitória,B,9.3,Bom
+198,30.0,20177.88,Rio de Janeiro,A,8.6,Bom
+199,73.0,42885.09,Rio de Janeiro,A,5.4,Bom
+200,65.0,33344.29,São Paulo,B,9.2,Bom
+201,65.0,13444.47,Rio de Janeiro,B,5.5,Bom
+202,31.0,44179.33,Belo Horizonte,A,7.8,Bom
+203,39.0,17564.51,Belo Horizonte,A,7.0,Bom
+204,49.0,33937.38,Belo Horizonte,B,9.5,Bom
+205,70.0,10828.66,Vitória,B,7.8,Bom
+206,28.0,14127.48,São Paulo,A,7.1,Bom
+207,78.0,18379.26,Vitória,A,6.8,Bom
+208,47.0,3128.67,Vitória,B,9.2,Bom
+209,78.0,41207.19,Rio de Janeiro,A,5.4,Bom
+210,46.0,9760.57,São Paulo,B,6.3,Bom
+211,36.0,12694.93,São Paulo,B,9.9,Bom
+212,56.0,6470.23,Belo Horizonte,B,5.0,Bom
+213,21.0,38802.61,São Paulo,A,7.9,Bom
+214,49.0,3175.55,São Paulo,B,6.0,Bom
+215,63.0,8589.62,São Paulo,B,8.4,Bom
+216,45.0,34936.82,São Paulo,B,9.2,Bom
+217,27.0,11005.04,São Paulo,A,8.0,Bom
+218,60.0,3021.18,Vitória,B,8.9,Bom
+219,51.0,34113.19,Belo Horizonte,B,8.0,Bom
+220,18.0,28298.94,Vitória,B,6.2,Bom
+221,62.0,46137.4,São Paulo,B,9.2,Bom
+222,28.0,8006.04,Belo Horizonte,B,9.3,Bom
+223,30.0,15149.95,Rio de Janeiro,A,7.6,Bom
+224,38.0,39603.04,São Paulo,B,6.4,Bom
+225,73.0,41664.32,São Paulo,A,5.2,Bom
+226,80.0,37491.55,Rio de Janeiro,A,9.0,Desconhecido
+227,59.0,31502.59,Belo Horizonte,B,6.0,Bom
+228,57.0,5987.02,São Paulo,A,7.4330303030303035,Desconhecido
+229,21.0,41652.64,Rio de Janeiro,A,6.8,Bom
+230,34.0,28048.01,Rio de Janeiro,B,5.7,Bom
+231,34.0,34898.25,Belo Horizonte,A,7.7,Bom
+232,75.0,20295.1,Vitória,B,8.5,Bom
+233,19.0,9003.49,Vitória,B,6.9,Bom
+234,69.0,1976.02,Belo Horizonte,A,8.3,Bom
+235,26.0,39518.63,Vitória,B,9.5,Bom
+236,68.0,34693.14,Vitória,B,8.9,Bom
+237,62.0,25849.66,Rio de Janeiro,A,7.8,Bom
+238,35.0,34727.31,São Paulo,A,7.3,Bom
+239,70.0,5792.45,São Paulo,B,9.5,Bom
+240,57.0,24016.71,Rio de Janeiro,B,5.3,Bom
+241,78.0,23676.391303030305,Belo Horizonte,A,6.6,Desconhecido
+242,73.0,3143.61,São Paulo,B,5.3,Bom
+243,57.0,24747.14,Rio de Janeiro,A,8.4,Bom
+244,26.0,43730.56,Belo Horizonte,A,8.4,Bom
+245,36.0,25791.5,São Paulo,B,9.6,Bom
+246,28.0,29766.17,Vitória,A,6.9,Desconhecido
+247,39.0,36607.76,Vitória,A,6.9,Bom
+248,62.0,31462.55,São Paulo,A,6.0,Bom
+249,35.0,14124.92,São Paulo,A,5.8,Bom
+250,25.0,25952.45,Vitória,B,8.1,Bom
+251,82.0,30069.14,São Paulo,A,8.8,Bom
+252,22.0,39739.39,Vitória,B,6.6,Bom
+253,75.0,31066.2,São Paulo,A,7.1,Bom
+254,76.0,9728.22,Vitória,A,7.6,Bom
+255,37.0,40670.18,Belo Horizonte,A,5.9,Desconhecido
+256,64.0,45363.58,Rio de Janeiro,A,6.0,Bom
+257,35.0,41261.9,Rio de Janeiro,A,6.7,Bom
+258,49.0,34309.83,Belo Horizonte,A,8.8,Bom
+259,74.0,44298.09,Vitória,A,6.9,Bom
+260,41.0,30028.6,Rio de Janeiro,A,7.8,Bom
+261,34.0,9829.85,Belo Horizonte,A,9.7,Bom
+262,48.0,29297.1,Vitória,A,8.8,Bom
+263,65.0,43083.87,Rio de Janeiro,A,9.0,Bom
+264,22.0,35098.98,Rio de Janeiro,B,7.6,Bom
+265,49.25480283114257,21969.74,São Paulo,A,8.9,Bom
+266,31.0,27498.75,Belo Horizonte,B,7.9,Bom
+267,23.0,30843.59,São Paulo,B,5.5,Bom
+268,21.0,34577.33,Vitória,A,7.0,Bom
+269,70.0,19962.55,Vitória,A,5.6,Bom
+270,41.0,12041.18,Rio de Janeiro,A,5.3,Bom
+271,76.0,34686.31,Rio de Janeiro,A,6.0,Bom
+272,29.0,26957.85,São Paulo,B,9.4,Bom
+273,76.0,37241.2,Vitória,A,7.9,Bom
+274,61.0,42977.73,Rio de Janeiro,A,9.3,Bom
+275,28.0,12768.38,Belo Horizonte,B,7.7,Bom
+276,24.0,31832.03,Vitória,A,9.0,Bom
+277,20.0,27612.66,Belo Horizonte,B,7.4,Bom
+278,66.0,39958.18,Vitória,B,8.6,Bom
+279,20.0,8949.7,Rio de Janeiro,B,7.9,Bom
+280,71.0,31347.59,Belo Horizonte,A,8.5,Bom
+281,29.0,22374.69,Vitória,Desconhecido,5.2,Desconhecido
+282,71.0,25780.28,Vitória,A,6.6,Bom
+283,78.0,23122.94,São Paulo,A,9.3,Bom
+284,79.0,8793.48,Belo Horizonte,B,6.2,Bom
+285,58.0,19659.48,São Paulo,B,8.8,Bom
+286,70.0,31128.24,Vitória,B,5.9,Bom
+287,50.0,3193.88,Vitória,A,6.4,Bom
+288,32.0,25960.71,Belo Horizonte,A,9.7,Bom
+289,70.0,46067.41,Vitória,A,7.4330303030303035,Desconhecido
+290,34.0,29359.99,Rio de Janeiro,B,9.7,Bom
+291,60.0,19713.99,Rio de Janeiro,A,8.6,Bom
+292,55.0,11868.0,Belo Horizonte,B,9.5,Bom
+293,23.0,40127.4,São Paulo,B,7.6,Bom
+294,81.0,9164.18,Rio de Janeiro,B,6.3,Bom
+295,76.0,27640.69,Belo Horizonte,B,9.4,Bom
+296,16.0,15754.14,Vitória,A,7.1,Bom
+297,40.0,9794.53,São Paulo,A,5.2,Bom
+298,37.0,9772.43,Vitória,A,5.5,Bom
+299,37.0,20622.62,Vitória,A,5.6,Bom
+300,46.0,9304.26,São Paulo,A,8.1,Bom
+301,68.0,45306.4,Vitória,B,6.0,Bom
+302,17.0,3601.13,Belo Horizonte,B,5.4,Bom
+303,51.0,33985.02,Vitória,B,5.1,Bom
+304,61.0,35997.15,Belo Horizonte,B,9.6,Bom
+305,24.0,21279.74,Rio de Janeiro,A,9.4,Bom
+306,64.0,28562.03,Rio de Janeiro,B,5.3,Bom
+307,75.0,32658.09,Vitória,B,9.5,Bom
+308,57.0,32433.96,São Paulo,A,7.0,Bom
+309,63.0,29091.96,São Paulo,B,5.6,Bom
+310,24.0,18382.75,Belo Horizonte,A,5.3,Bom
+311,59.0,4106.91,Rio de Janeiro,B,7.2,Bom
+312,49.0,23464.51,São Paulo,A,7.2,Bom
+313,31.0,38692.6,Rio de Janeiro,A,6.6,Bom
+314,68.0,22621.46,Vitória,A,9.6,Bom
+315,16.0,20820.81,Rio de Janeiro,A,8.4,Bom
+316,68.0,39909.55,Belo Horizonte,A,7.0,Bom
+317,67.0,5286.32,Vitória,A,5.6,Bom
+318,49.25480283114257,16542.91,Belo Horizonte,B,9.5,Bom
+319,28.0,26677.5,Rio de Janeiro,B,5.1,Bom
+320,26.0,23117.01,Rio de Janeiro,A,5.9,Bom
+321,22.0,14373.75,Belo Horizonte,A,6.6,Bom
+322,68.0,38510.27,Vitória,B,7.4,Bom
+323,37.0,37611.02,Rio de Janeiro,A,8.6,Bom
+324,46.0,10690.9,São Paulo,B,6.7,Bom
+325,34.0,32152.22,Belo Horizonte,B,6.0,Bom
+326,78.0,34236.96,Vitória,B,8.2,Bom
+327,68.0,30764.16,Vitória,B,6.0,Bom
+328,34.0,18187.88,Rio de Janeiro,B,6.8,Bom
+329,18.0,30415.62,Belo Horizonte,A,9.9,Bom
+330,66.0,40635.8,Rio de Janeiro,B,7.7,Bom
+331,28.0,21817.3,Belo Horizonte,A,6.7,Bom
+332,76.0,34801.4,Rio de Janeiro,B,8.2,Bom
+333,75.0,33912.21,Belo Horizonte,A,9.9,Bom
+334,57.0,19862.83,Belo Horizonte,B,6.7,Bom
+335,35.0,42045.77,Belo Horizonte,B,5.7,Bom
+336,49.25480283114257,46119.59,Belo Horizonte,B,9.9,Bom
+337,23.0,10576.5,Vitória,A,5.9,Bom
+338,52.0,7155.91,Belo Horizonte,B,5.1,Bom
+339,70.0,16937.62,Belo Horizonte,A,10.0,Bom
+340,21.0,2089.48,Vitória,A,9.5,Bom
+341,57.0,26949.87,Rio de Janeiro,A,9.2,Bom
+342,44.0,11209.87,Vitória,B,9.7,Bom
+343,33.0,41034.28,São Paulo,A,5.1,Bom
+344,69.0,37500.89,Belo Horizonte,A,7.0,Bom
+345,74.0,23316.37,Vitória,A,6.8,Bom
+346,42.0,32362.48,Rio de Janeiro,A,5.4,Bom
+347,37.0,18590.57,São Paulo,B,8.0,Bom
+348,57.0,29968.74,Belo Horizonte,B,8.3,Bom
+349,28.0,26647.98,Rio de Janeiro,B,7.1,Bom
+350,22.0,41524.79,São Paulo,A,8.8,Bom
+351,39.0,44939.54,São Paulo,B,7.7,Bom
+352,73.0,4916.14,Rio de Janeiro,B,6.9,Bom
+353,51.0,5102.87,São Paulo,A,9.9,Bom
+354,21.0,42389.37,Vitória,A,7.0,Bom
+355,67.0,4034.13,Rio de Janeiro,A,7.0,Bom
+356,63.0,32656.95,Belo Horizonte,B,5.6,Bom
+357,72.0,7894.65,Belo Horizonte,B,8.0,Bom
+358,47.0,26802.02,Belo Horizonte,A,7.8,Bom
+359,32.0,7296.92,São Paulo,A,5.4,Bom
+360,64.0,43010.33,Vitória,A,7.4330303030303035,Desconhecido
+361,37.0,35792.78,Vitória,B,9.6,Bom
+362,49.25480283114257,21823.37,Vitória,A,7.5,Bom
+363,29.0,26625.81,Belo Horizonte,A,5.5,Bom
+364,82.0,40481.56,Belo Horizonte,B,9.0,Bom
+365,23.0,19511.76,Vitória,A,7.7,Bom
+366,46.0,17103.12,Belo Horizonte,B,6.4,Bom
+367,62.0,11132.45,Rio de Janeiro,B,7.3,Bom
+368,72.0,4497.78,Belo Horizonte,A,9.5,Bom
+369,49.0,35583.24,Rio de Janeiro,Desconhecido,7.1,Desconhecido
+370,49.0,7527.83,São Paulo,B,7.8,Bom
+371,35.0,4323.35,Belo Horizonte,A,5.1,Bom
+372,42.0,42275.35,Vitória,B,8.7,Bom
+373,51.0,40053.08,São Paulo,B,7.4330303030303035,Desconhecido
+374,67.0,2845.92,Belo Horizonte,B,5.8,Bom
+375,76.0,35355.75,Vitória,A,9.2,Bom
+376,19.0,2754.18,São Paulo,A,9.2,Bom
+377,35.0,9698.0,Belo Horizonte,B,9.6,Bom
+378,57.0,35159.15,Vitória,B,9.5,Desconhecido
+379,65.0,37411.92,Rio de Janeiro,A,5.7,Bom
+380,60.0,3654.01,Rio de Janeiro,A,8.6,Bom
+381,63.0,32867.38,Belo Horizonte,A,5.8,Bom
+382,34.0,14190.61,São Paulo,B,5.8,Bom
+383,30.0,33735.83,Rio de Janeiro,A,7.9,Bom
+384,78.0,13129.08,Rio de Janeiro,B,7.7,Bom
+385,80.0,14380.85,São Paulo,A,9.8,Bom
+386,62.0,22576.53,Rio de Janeiro,A,6.2,Bom
+387,76.0,43488.05,São Paulo,A,8.1,Bom
+388,38.0,45225.68,Vitória,A,9.5,Bom
+389,47.0,30573.7,Rio de Janeiro,B,5.8,Bom
+390,74.0,11331.28,Vitória,B,9.3,Bom
+391,33.0,16349.06,Rio de Janeiro,B,7.9,Bom
+392,40.0,37912.64,São Paulo,B,5.1,Bom
+393,38.0,3622.7,São Paulo,B,7.7,Bom
+394,82.0,26791.3,São Paulo,B,5.6,Bom
+395,52.0,22487.35,São Paulo,B,7.5,Bom
+396,21.0,23508.41,Vitória,B,9.6,Bom
+397,64.0,2528.15,Belo Horizonte,B,6.3,Bom
+398,68.0,31293.98,São Paulo,A,6.7,Bom
+399,36.0,29063.91,Vitória,A,6.7,Bom
+400,39.0,44991.94,Rio de Janeiro,A,6.0,Bom
+401,72.0,24330.83,São Paulo,A,9.7,Bom
+402,38.0,7642.32,São Paulo,A,6.7,Bom
+403,25.0,39233.65,São Paulo,A,7.2,Bom
+404,39.0,36611.04,Belo Horizonte,B,5.1,Bom
+405,55.0,35401.95,Rio de Janeiro,B,5.6,Bom
+406,80.0,18332.21,Belo Horizonte,A,8.6,Bom
+407,23.0,18854.77,Vitória,A,5.8,Bom
+408,82.0,40715.47,Rio de Janeiro,A,9.4,Bom
+409,61.0,4945.93,Vitória,B,9.3,Bom
+410,33.0,31921.77,São Paulo,B,8.9,Bom
+411,44.0,29260.2,Rio de Janeiro,B,7.7,Bom
+412,49.0,36016.37,São Paulo,A,7.7,Bom
+413,82.0,24272.02,São Paulo,A,8.4,Bom
+414,50.0,15175.78,Rio de Janeiro,B,5.4,Bom
+415,56.0,33920.9,Belo Horizonte,B,6.2,Bom
+416,64.0,20921.88,São Paulo,A,7.4,Bom
+417,18.0,24438.06,Rio de Janeiro,A,7.7,Bom
+418,68.0,11603.28,Vitória,B,8.5,Bom
+419,46.0,14029.31,Vitória,B,7.0,Bom
+420,76.0,16396.39,Belo Horizonte,B,5.6,Bom
+421,81.0,33379.31,São Paulo,B,7.1,Bom
+422,79.0,8882.23,Rio de Janeiro,B,9.1,Bom
+423,46.0,25088.03,Rio de Janeiro,B,8.5,Bom
+424,50.0,16387.78,São Paulo,A,7.2,Bom
+425,38.0,14969.51,Rio de Janeiro,A,9.8,Bom
+426,18.0,26173.73,Rio de Janeiro,B,6.9,Bom
+427,65.0,24650.26,Vitória,B,9.9,Bom
+428,64.0,35336.45,Vitória,A,9.4,Bom
+429,63.0,4220.61,São Paulo,A,8.7,Bom
+430,54.0,14665.55,Belo Horizonte,Desconhecido,9.3,Desconhecido
+431,41.0,29685.16,Vitória,A,5.2,Bom
+432,79.0,7580.23,São Paulo,B,7.6,Bom
+433,50.0,4904.57,Rio de Janeiro,B,7.6,Bom
+434,21.0,33988.96,Rio de Janeiro,A,5.2,Bom
+435,63.0,28321.15,Rio de Janeiro,A,9.3,Bom
+436,33.0,38516.98,Belo Horizonte,A,5.3,Bom
+437,56.0,41838.55,Rio de Janeiro,A,6.5,Bom
+438,81.0,22709.51,Vitória,B,5.9,Bom
+439,57.0,13280.35,São Paulo,A,9.6,Bom
+440,39.0,41240.35,Rio de Janeiro,B,7.2,Bom
+441,39.0,3243.65,Rio de Janeiro,B,9.6,Bom
+442,48.0,14162.84,São Paulo,B,5.2,Bom
+443,62.0,6160.97,Vitória,A,5.7,Bom
+444,34.0,45031.47,Vitória,B,5.9,Bom
+445,52.0,23676.391303030305,São Paulo,B,6.7,Desconhecido
+446,31.0,18383.09,São Paulo,A,10.0,Bom
+447,56.0,34947.06,Vitória,A,6.0,Bom
+448,72.0,5645.04,Rio de Janeiro,B,7.9,Bom
+449,75.0,40733.15,Vitória,B,5.3,Bom
+450,16.0,12686.31,Vitória,B,7.0,Bom
+451,18.0,45080.23,Rio de Janeiro,B,6.0,Bom
+452,52.0,38441.75,Rio de Janeiro,B,8.5,Bom
+453,46.0,20028.89,Vitória,B,6.0,Bom
+454,80.0,35711.69,São Paulo,B,5.5,Bom
+455,45.0,36376.52,Vitória,A,6.1,Bom
+456,41.0,20853.47,Belo Horizonte,B,6.4,Bom
+457,27.0,33754.09,Vitória,A,7.2,Bom
+458,25.0,42237.8,São Paulo,A,7.5,Bom
+459,61.0,13025.81,São Paulo,B,9.5,Bom
+460,56.0,43456.56,Rio de Janeiro,B,5.5,Bom
+461,50.0,29584.09,Vitória,B,8.7,Bom
+462,47.0,32522.76,São Paulo,A,9.2,Bom
+463,48.0,29911.05,Belo Horizonte,B,7.6,Bom
+464,80.0,42306.62,Vitória,A,7.0,Bom
+465,46.0,32219.1,São Paulo,B,8.0,Bom
+466,48.0,10842.79,Belo Horizonte,B,6.2,Bom
+467,61.0,11583.9,Vitória,B,7.4330303030303035,Desconhecido
+468,59.0,40795.66,São Paulo,A,7.3,Bom
+469,79.0,36192.41,Rio de Janeiro,A,7.0,Bom
+470,68.0,9548.42,Rio de Janeiro,A,9.8,Bom
+471,35.0,23720.04,São Paulo,B,7.8,Bom
+472,32.0,6603.29,Vitória,B,7.5,Bom
+473,78.0,2207.08,Vitória,B,7.4330303030303035,Desconhecido
+474,35.0,8037.96,Belo Horizonte,B,8.4,Bom
+475,82.0,37864.76,São Paulo,B,9.6,Bom
+476,75.0,35209.15,Rio de Janeiro,A,7.8,Bom
+477,65.0,2858.22,Belo Horizonte,A,7.1,Bom
+478,43.0,39100.24,Vitória,A,8.3,Bom
+479,39.0,28342.31,Belo Horizonte,A,5.1,Bom
+480,82.0,4839.53,Belo Horizonte,A,9.5,Bom
+481,63.0,13405.7,Belo Horizonte,A,8.3,Bom
+482,57.0,45185.24,Belo Horizonte,A,10.0,Bom
+483,47.0,11979.89,Belo Horizonte,A,6.6,Bom
+484,70.0,8967.87,Rio de Janeiro,A,8.9,Bom
+485,35.0,10639.31,Vitória,A,8.5,Bom
+486,53.0,39756.56,Rio de Janeiro,A,5.9,Bom
+487,25.0,2798.64,Vitória,B,9.8,Bom
+488,73.0,22836.04,São Paulo,A,8.4,Bom
+489,36.0,13320.08,São Paulo,B,6.6,Bom
+490,24.0,28566.35,São Paulo,A,9.4,Bom
+491,45.0,1983.01,Belo Horizonte,A,7.5,Bom
+492,32.0,13086.26,Belo Horizonte,A,9.0,Bom
+493,61.0,26998.69,Rio de Janeiro,A,8.4,Bom
+494,33.0,35080.86,Rio de Janeiro,A,7.3,Bom
+495,33.0,31560.19,Belo Horizonte,A,7.1,Bom
+496,22.0,21347.41,Belo Horizonte,B,5.6,Bom
+497,79.0,9501.01,São Paulo,B,6.8,Bom
+498,38.0,3968.83,Rio de Janeiro,B,9.8,Bom
+499,46.0,25308.83,Vitória,B,9.8,Bom
+500,54.0,14416.52,Rio de Janeiro,B,6.4,Bom
+501,57.0,6730.16,Belo Horizonte,B,5.1,Bom
+502,53.0,40026.01,Belo Horizonte,A,6.3,Bom
+503,23.0,7427.26,Belo Horizonte,B,9.3,Bom
+504,44.0,17506.4,Rio de Janeiro,A,6.3,Bom
+505,26.0,13130.06,Rio de Janeiro,B,9.3,Bom
+506,46.0,19266.58,São Paulo,A,5.2,Bom
+507,81.0,25066.44,Belo Horizonte,A,9.6,Bom
+508,25.0,19591.59,Vitória,B,6.0,Bom
+509,81.0,4443.74,São Paulo,A,6.7,Bom
+510,81.0,27215.97,Vitória,B,9.9,Bom
+511,29.0,23539.94,Belo Horizonte,B,6.1,Bom
+512,97.0,56456.2,Vitória,A,4.1,Bom
+513,80.0,18849.11,Vitória,B,8.7,Bom
+514,32.0,24480.27,Rio de Janeiro,B,7.4,Bom
+515,73.0,20428.66,Belo Horizonte,B,6.1,Bom
+516,61.0,44046.67,Vitória,A,7.8,Bom
+517,39.0,39644.28,Vitória,B,8.0,Bom
+518,49.25480283114257,30814.53,Rio de Janeiro,B,8.6,Bom
+519,16.0,36928.22,Belo Horizonte,B,8.9,Bom
+520,25.0,9471.73,Rio de Janeiro,B,7.7,Bom
+521,30.0,31768.61,São Paulo,B,9.6,Bom
+522,29.0,24197.85,Belo Horizonte,B,7.8,Bom
+523,32.0,10169.97,Rio de Janeiro,B,5.2,Bom
+524,16.0,3750.96,Belo Horizonte,A,7.6,Bom
+525,74.0,6287.8,Vitória,A,6.4,Bom
+526,62.0,20539.67,Rio de Janeiro,B,5.6,Bom
+527,41.0,34708.46,Rio de Janeiro,A,5.3,Bom
+528,16.0,31833.57,São Paulo,A,8.5,Bom
+529,48.0,23093.91,Vitória,B,5.1,Bom
+530,23.0,3434.2,Vitória,A,7.4,Bom
+531,69.0,3437.21,Belo Horizonte,B,7.5,Bom
+532,47.0,17713.88,Belo Horizonte,A,5.3,Bom
+533,47.0,5121.1,São Paulo,A,8.4,Bom
+534,63.0,8106.24,Vitória,A,6.1,Bom
+535,74.0,17494.85,Rio de Janeiro,A,5.3,Bom
+536,46.0,41723.01,São Paulo,A,6.6,Bom
+537,71.0,21711.92,Rio de Janeiro,A,8.8,Bom
+538,80.0,9579.78,Belo Horizonte,A,6.3,Bom
+539,75.0,23676.391303030305,Belo Horizonte,A,7.1,Desconhecido
+540,50.0,37593.68,Belo Horizonte,A,6.5,Bom
+541,74.0,25733.72,Belo Horizonte,B,8.8,Bom
+542,70.0,7652.39,Belo Horizonte,A,6.3,Bom
+543,33.0,31088.22,Belo Horizonte,B,9.8,Bom
+544,64.0,30690.13,São Paulo,A,5.2,Bom
+545,34.0,43600.22,Desconhecido,A,9.4,Bom
+546,82.0,4055.64,Belo Horizonte,A,6.8,Desconhecido
+547,63.0,31103.86,São Paulo,A,7.9,Bom
+548,26.0,9398.95,Vitória,A,6.3,Bom
+549,69.0,4836.04,Belo Horizonte,B,8.7,Bom
+550,43.0,31749.31,Belo Horizonte,A,8.0,Bom
+551,24.0,15993.52,Rio de Janeiro,A,8.2,Bom
+552,36.0,23682.61,Belo Horizonte,A,9.4,Bom
+553,25.0,45393.4,Rio de Janeiro,A,9.1,Bom
+554,69.0,31956.24,Vitória,A,7.6,Bom
+555,18.0,40474.81,Rio de Janeiro,B,7.6,Bom
+556,73.0,45035.76,São Paulo,A,5.5,Bom
+557,31.0,21416.06,Vitória,B,6.3,Bom
+558,47.0,4937.14,Vitória,A,5.3,Bom
+559,41.0,2438.51,São Paulo,A,6.7,Bom
+560,61.0,33345.37,Rio de Janeiro,A,5.2,Bom
+561,45.0,20544.86,Rio de Janeiro,B,5.9,Bom
+562,74.0,44717.86,São Paulo,A,8.8,Bom
+563,24.0,29015.25,São Paulo,A,8.1,Bom
+564,42.0,13406.56,Vitória,A,6.4,Bom
+565,50.0,28908.8,Rio de Janeiro,A,9.2,Desconhecido
+566,72.0,18675.13,São Paulo,A,9.1,Bom
+567,27.0,44228.35,São Paulo,B,8.5,Bom
+568,48.0,44691.14,Belo Horizonte,A,5.2,Bom
+569,29.0,35105.46,Vitória,B,5.3,Bom
+570,38.0,33266.44,Vitória,B,8.4,Bom
+571,46.0,10415.48,Vitória,A,9.2,Bom
+572,74.0,42832.0,Belo Horizonte,A,6.8,Bom
+573,34.0,14492.44,Belo Horizonte,A,7.8,Bom
+574,71.0,40478.3,São Paulo,A,9.9,Bom
+575,48.0,27954.0,Vitória,B,6.8,Bom
+576,81.0,30468.07,São Paulo,B,9.2,Bom
+577,48.0,42572.17,Rio de Janeiro,B,9.2,Bom
+578,66.0,42898.16,São Paulo,B,7.4,Bom
+579,79.0,44163.7,São Paulo,A,9.0,Bom
+580,74.0,36846.19,Rio de Janeiro,A,5.2,Bom
+581,62.0,13929.92,Vitória,B,6.9,Bom
+582,60.0,45585.44,Belo Horizonte,B,7.4,Bom
+583,63.0,28422.85,Rio de Janeiro,A,6.7,Bom
+584,39.0,21436.13,Belo Horizonte,B,8.8,Bom
+585,37.0,15816.76,Belo Horizonte,B,10.0,Bom
+586,50.0,11264.88,São Paulo,A,7.3,Bom
+587,56.0,25077.14,São Paulo,B,8.7,Bom
+588,63.0,7655.61,Belo Horizonte,B,8.6,Bom
+589,65.0,13886.03,Vitória,B,5.3,Bom
+590,33.0,1677.29,Belo Horizonte,B,5.9,Bom
+591,46.0,16539.45,São Paulo,B,8.9,Bom
+592,50.0,11479.86,Rio de Janeiro,A,5.1,Bom
+593,70.0,39954.68,Vitória,A,8.0,Bom
+594,49.25480283114257,10993.28,São Paulo,A,9.8,Bom
+595,41.0,32083.7,Vitória,B,8.9,Bom
+596,43.0,10039.78,Vitória,B,5.2,Bom
+597,51.0,33948.1,Vitória,A,8.9,Bom
+598,47.0,16875.49,Rio de Janeiro,B,7.0,Bom
+599,68.0,10552.64,São Paulo,A,8.0,Bom
+600,81.0,23868.96,Belo Horizonte,B,9.4,Bom
+601,56.0,19943.13,Rio de Janeiro,A,8.1,Bom
+602,64.0,16318.91,São Paulo,A,7.4,Bom
+603,56.0,15528.78,Belo Horizonte,B,8.1,Bom
+604,58.0,3252.89,Belo Horizonte,A,9.0,Bom
+605,56.0,11541.03,São Paulo,A,7.6,Bom
+606,70.0,42937.49,São Paulo,A,5.2,Bom
+607,27.0,45630.57,Vitória,A,9.8,Bom
+608,29.0,38989.29,Rio de Janeiro,A,6.2,Bom
+609,63.0,36074.71,Belo Horizonte,B,5.1,Bom
+610,66.0,45923.55,Belo Horizonte,A,5.9,Bom
+611,73.0,20723.91,São Paulo,A,5.9,Bom
+612,38.0,23722.52,São Paulo,B,10.0,Bom
+613,18.0,45364.71,São Paulo,B,5.3,Bom
+614,19.0,5550.66,São Paulo,A,7.5,Bom
+615,23.0,31469.48,São Paulo,B,8.4,Bom
+616,21.0,23676.391303030305,Rio de Janeiro,A,8.8,Desconhecido
+617,43.0,25840.73,Vitória,B,8.7,Bom
+618,37.0,10966.36,Belo Horizonte,A,9.7,Bom
+619,29.0,27656.53,Belo Horizonte,B,9.2,Bom
+620,58.0,6842.37,Rio de Janeiro,A,8.1,Bom
+621,20.0,45750.58,Rio de Janeiro,B,10.0,Bom
+622,63.0,4810.13,Rio de Janeiro,A,7.4,Bom
+623,43.0,45462.05,Belo Horizonte,B,6.7,Bom
+624,32.0,3359.48,Belo Horizonte,A,5.3,Bom
+625,63.0,35444.55,São Paulo,A,6.7,Bom
+626,37.0,41652.78,Rio de Janeiro,A,6.3,Bom
+627,80.0,46069.33,Rio de Janeiro,A,8.2,Bom
+628,31.0,9868.35,São Paulo,A,5.0,Bom
+629,28.0,22549.98,São Paulo,B,5.6,Bom
+630,62.0,27798.89,Rio de Janeiro,B,6.7,Bom
+631,17.0,26685.97,São Paulo,A,8.1,Bom
+632,78.0,3422.65,Vitória,B,9.4,Bom
+633,17.0,9839.17,Belo Horizonte,A,8.6,Bom
+634,27.0,3094.69,São Paulo,B,8.9,Bom
+635,68.0,11127.24,Belo Horizonte,A,9.2,Bom
+636,66.0,44678.77,Rio de Janeiro,B,7.2,Bom
+637,53.0,16698.71,Belo Horizonte,A,5.1,Bom
+638,41.0,43401.21,Vitória,B,5.8,Bom
+639,52.0,12201.47,São Paulo,B,6.0,Bom
+640,43.0,44337.66,Rio de Janeiro,B,5.0,Bom
+641,70.0,17932.47,Rio de Janeiro,A,6.8,Bom
+642,34.0,45567.03,Belo Horizonte,A,5.1,Bom
+643,28.0,26979.63,São Paulo,B,5.7,Bom
+644,26.0,40482.11,São Paulo,A,7.3,Bom
+645,20.0,22328.54,Rio de Janeiro,A,5.3,Bom
+646,38.0,4958.03,Rio de Janeiro,A,7.3,Bom
+647,41.0,2438.53,Belo Horizonte,A,6.2,Bom
+648,76.0,23676.391303030305,Rio de Janeiro,Desconhecido,9.1,Desconhecido
+649,54.0,43643.48,Rio de Janeiro,B,8.1,Bom
+650,20.0,26225.62,São Paulo,A,8.5,Bom
+651,34.0,27877.18,Rio de Janeiro,B,7.7,Bom
+652,57.0,37385.74,Vitória,A,9.0,Bom
+653,32.0,9200.59,Rio de Janeiro,A,7.0,Bom
+654,44.0,9134.2,Vitória,Desconhecido,7.3,Desconhecido
+655,62.0,23610.13,Vitória,A,6.1,Bom
+656,16.0,41558.47,Rio de Janeiro,B,7.6,Bom
+657,42.0,7582.47,Desconhecido,A,7.5,Bom
+658,41.0,15109.95,São Paulo,B,6.2,Bom
+659,57.0,35607.5,São Paulo,A,8.7,Bom
+660,45.0,40690.23,Rio de Janeiro,B,8.3,Bom
+661,32.0,37596.58,Vitória,A,6.4,Bom
+662,41.0,4179.18,Vitória,A,6.2,Bom
+663,47.0,13506.92,Rio de Janeiro,A,6.4,Bom
+664,76.0,17037.91,Vitória,A,9.7,Bom
+665,67.0,28998.1,Belo Horizonte,A,5.8,Bom
+666,18.0,27255.09,Belo Horizonte,B,6.9,Bom
+667,52.0,15955.75,Vitória,A,5.3,Bom
+668,75.0,28040.64,Rio de Janeiro,B,7.4330303030303035,Desconhecido
+669,50.0,30438.23,Belo Horizonte,A,9.8,Bom
+670,40.0,37225.62,São Paulo,A,5.2,Bom
+671,46.0,34968.64,Vitória,A,7.0,Bom
+672,29.0,21334.08,São Paulo,A,9.3,Bom
+673,70.0,30744.82,Belo Horizonte,B,5.1,Bom
+674,45.0,18959.68,Vitória,A,7.9,Bom
+675,33.0,13150.78,São Paulo,A,5.2,Bom
+676,36.0,1786.6,Belo Horizonte,A,6.0,Bom
+677,32.0,44384.19,Vitória,B,6.7,Bom
+678,39.0,10614.47,Belo Horizonte,B,6.3,Bom
+679,18.0,36370.61,Rio de Janeiro,B,5.6,Bom
+680,34.0,2742.37,São Paulo,B,7.9,Bom
+681,50.0,16985.71,São Paulo,B,5.8,Bom
+682,19.0,24347.72,Rio de Janeiro,A,9.1,Bom
+683,78.0,3698.04,Vitória,A,8.3,Bom
+684,50.0,34588.47,São Paulo,B,8.7,Bom
+685,73.0,9656.28,São Paulo,A,5.8,Bom
+686,73.0,5493.19,Rio de Janeiro,A,9.9,Bom
+687,58.0,42382.3,Vitória,A,8.1,Bom
+688,21.0,8339.31,Vitória,B,7.5,Bom
+689,34.0,37787.86,Rio de Janeiro,A,9.2,Bom
+690,38.0,45778.99,São Paulo,B,6.1,Bom
+691,69.0,40323.02,Rio de Janeiro,B,7.2,Bom
+692,58.0,21059.74,Rio de Janeiro,A,5.2,Bom
+693,70.0,15682.22,São Paulo,A,5.4,Bom
+694,36.0,11551.76,Belo Horizonte,Desconhecido,7.3,Desconhecido
+695,42.0,6064.8,Belo Horizonte,A,8.0,Bom
+696,57.0,4055.8,São Paulo,A,8.9,Bom
+697,29.0,8875.62,Belo Horizonte,A,8.4,Bom
+698,58.0,24370.89,Rio de Janeiro,A,6.0,Bom
+699,57.0,38718.29,Vitória,B,6.1,Bom
+700,50.0,8446.92,Rio de Janeiro,B,9.2,Bom
+701,29.0,4412.16,Rio de Janeiro,A,5.6,Bom
+702,67.0,14999.32,Belo Horizonte,B,9.9,Bom
+703,43.0,32306.71,Rio de Janeiro,A,10.0,Bom
+704,70.0,26846.02,São Paulo,B,6.9,Bom
+705,69.0,45768.55,São Paulo,Desconhecido,8.2,Desconhecido
+706,33.0,41433.91,São Paulo,A,6.9,Bom
+707,33.0,15599.99,Desconhecido,B,5.8,Bom
+708,25.0,2527.23,São Paulo,A,10.0,Bom
+709,63.0,24773.23,Belo Horizonte,A,6.6,Bom
+710,62.0,37802.43,São Paulo,A,9.2,Bom
+711,56.0,1719.37,Belo Horizonte,B,6.1,Bom
+712,80.0,11771.61,Rio de Janeiro,B,7.8,Bom
+713,19.0,12897.28,Belo Horizonte,B,5.7,Bom
+714,71.0,44679.85,Rio de Janeiro,A,8.6,Bom
+715,39.0,32769.6,Vitória,A,7.7,Bom
+716,62.0,26365.35,Belo Horizonte,A,9.1,Bom
+717,49.0,37014.18,Vitória,B,9.2,Bom
+718,66.0,25457.64,Belo Horizonte,B,8.8,Bom
+719,22.0,15961.89,São Paulo,A,8.9,Bom
+720,69.0,25025.23,São Paulo,A,7.1,Bom
+721,60.0,4285.04,Vitória,A,7.2,Bom
+722,52.0,16119.65,Vitória,A,8.7,Bom
+723,67.0,27023.55,Vitória,B,6.0,Bom
+724,70.0,8690.59,Vitória,B,8.4,Bom
+725,43.0,7118.02,São Paulo,B,6.8,Bom
+726,30.0,8305.52,Belo Horizonte,Desconhecido,7.0,Desconhecido
+727,44.0,24336.51,Vitória,B,9.9,Bom
+728,68.0,43492.41,São Paulo,A,7.1,Bom
+729,6.0,62065.85,Rio de Janeiro,A,1.5,Bom
+730,71.0,12342.08,Rio de Janeiro,B,5.5,Bom
+731,68.0,22304.75,Belo Horizonte,A,9.1,Bom
+732,60.0,29852.98,São Paulo,B,8.5,Bom
+733,51.0,23676.391303030305,São Paulo,B,7.7,Desconhecido
+734,18.0,31030.02,Vitória,A,9.5,Bom
+735,76.0,17625.34,Rio de Janeiro,B,7.8,Bom
+736,79.0,6852.45,Rio de Janeiro,A,7.3,Bom
+737,91.0,613.85,Rio de Janeiro,A,3.2,Bom
+738,17.0,22249.04,São Paulo,A,9.8,Bom
+739,59.0,14443.42,São Paulo,A,5.9,Bom
+740,49.25480283114257,8749.07,Rio de Janeiro,B,8.9,Bom
+741,77.0,22404.82,Vitória,A,5.7,Bom
+742,78.0,20336.34,Rio de Janeiro,B,8.6,Bom
+743,39.0,38675.03,Rio de Janeiro,A,9.0,Bom
+744,73.0,39365.09,Vitória,B,9.7,Bom
+745,74.0,26763.72,São Paulo,A,9.2,Bom
+746,26.0,27323.27,Belo Horizonte,B,9.6,Bom
+747,52.0,21821.85,Vitória,A,6.2,Bom
+748,32.0,42440.99,Rio de Janeiro,A,6.9,Bom
+749,47.0,19252.79,São Paulo,A,8.4,Bom
+750,22.0,3647.87,São Paulo,A,6.1,Bom
+751,59.0,27035.01,Belo Horizonte,B,5.9,Bom
+752,50.0,36590.47,Rio de Janeiro,B,6.9,Bom
+753,52.0,43673.02,Vitória,A,6.3,Bom
+754,58.0,8926.9,São Paulo,B,5.7,Bom
+755,16.0,31297.25,Rio de Janeiro,B,8.5,Bom
+756,70.0,34701.03,Rio de Janeiro,B,6.9,Desconhecido
+757,65.0,12141.48,Vitória,B,9.8,Desconhecido
+758,42.0,8430.87,Vitória,A,6.4,Bom
+759,32.0,8059.23,Belo Horizonte,A,6.7,Bom
+760,70.0,23676.391303030305,Vitória,B,8.9,Desconhecido
+761,62.0,1571.13,Rio de Janeiro,B,7.9,Bom
+762,63.0,42607.94,São Paulo,A,8.9,Bom
+763,56.0,46246.09,Belo Horizonte,A,8.1,Bom
+764,68.0,44169.65,Vitória,A,6.7,Bom
+765,31.0,12695.91,Rio de Janeiro,B,8.8,Bom
+766,66.0,37694.72,Belo Horizonte,B,9.3,Bom
+767,27.0,46042.72,Belo Horizonte,A,9.3,Bom
+768,75.0,5559.95,São Paulo,A,8.7,Bom
+769,23.0,35164.28,Rio de Janeiro,B,9.7,Bom
+770,52.0,17527.29,Rio de Janeiro,A,5.7,Bom
+771,21.0,29048.51,Rio de Janeiro,B,7.4,Bom
+772,55.0,41187.96,Belo Horizonte,B,6.8,Bom
+773,66.0,13484.71,Rio de Janeiro,B,6.1,Bom
+774,19.0,17990.31,Vitória,B,6.7,Bom
+775,79.0,42223.61,São Paulo,B,8.0,Bom
+776,82.0,42569.74,São Paulo,B,5.8,Bom
+777,24.0,2538.42,São Paulo,B,9.2,Bom
+778,42.0,37969.24,São Paulo,B,8.5,Bom
+779,62.0,20576.99,Rio de Janeiro,B,6.2,Bom
+780,46.0,22638.13,Belo Horizonte,B,7.6,Bom
+781,79.0,32229.54,Rio de Janeiro,B,5.3,Bom
+782,50.0,21186.1,Belo Horizonte,A,9.6,Bom
+783,85.0,1041.88,Vitória,B,2.3,Bom
+784,21.0,44067.26,Rio de Janeiro,A,6.5,Bom
+785,60.0,23373.83,São Paulo,A,8.9,Bom
+786,49.0,40017.02,Belo Horizonte,B,8.2,Bom
+787,78.0,29325.19,Vitória,A,9.0,Bom
+788,62.0,23350.25,São Paulo,B,8.9,Bom
+789,32.0,40747.26,São Paulo,A,9.8,Bom
+790,39.0,5622.1,São Paulo,B,6.4,Bom
+791,27.0,44167.6,Belo Horizonte,B,9.0,Bom
+792,55.0,30097.25,Rio de Janeiro,B,8.4,Bom
+793,49.25480283114257,38688.98,Belo Horizonte,B,5.6,Bom
+794,27.0,9367.76,Rio de Janeiro,B,8.8,Bom
+795,28.0,19463.64,Belo Horizonte,B,5.8,Bom
+796,21.0,31832.71,Desconhecido,B,7.4,Bom
+797,49.0,33680.09,Vitória,A,5.2,Bom
+798,55.0,38093.49,Vitória,B,6.3,Bom
+799,62.0,2191.64,Rio de Janeiro,A,6.2,Bom
+800,33.0,7367.19,Vitória,B,7.2,Bom
+801,34.0,7201.92,São Paulo,B,5.2,Bom
+802,68.0,20302.53,São Paulo,B,8.5,Bom
+803,75.0,30533.45,Vitória,A,7.4,Bom
+804,28.0,45873.25,Belo Horizonte,A,5.5,Bom
+805,70.0,17778.65,Rio de Janeiro,A,8.1,Bom
+806,47.0,44655.14,Vitória,A,6.5,Bom
+807,63.0,38164.77,Belo Horizonte,A,8.8,Bom
+808,19.0,40878.35,Vitória,A,5.8,Bom
+809,36.0,3338.58,Belo Horizonte,A,9.1,Bom
+810,41.0,11449.33,Belo Horizonte,B,6.5,Bom
+811,54.0,23178.25,Rio de Janeiro,A,6.6,Bom
+812,20.0,30995.73,Rio de Janeiro,A,7.3,Bom
+813,16.0,10513.56,Vitória,B,9.9,Bom
+814,77.0,45874.81,São Paulo,B,8.2,Bom
+815,48.0,25636.3,Belo Horizonte,B,9.2,Bom
+816,61.0,5509.48,Belo Horizonte,A,5.5,Bom
+817,59.0,3123.14,Rio de Janeiro,A,9.7,Bom
+818,57.0,10016.43,Vitória,A,7.1,Bom
+819,77.0,21919.9,Rio de Janeiro,A,9.6,Bom
+820,50.0,24270.48,Rio de Janeiro,B,6.4,Bom
+821,78.0,30454.76,São Paulo,B,5.3,Bom
+822,73.0,33343.05,São Paulo,A,6.5,Bom
+823,20.0,22863.58,Rio de Janeiro,A,6.5,Bom
+824,64.0,26198.81,Vitória,A,8.4,Bom
+825,39.0,35072.47,São Paulo,A,6.9,Bom
+826,51.0,33040.02,São Paulo,A,6.7,Bom
+827,32.0,37308.45,Rio de Janeiro,Desconhecido,5.2,Desconhecido
+828,52.0,40198.96,Belo Horizonte,B,7.7,Bom
+829,50.0,41056.46,Belo Horizonte,B,8.5,Bom
+830,43.0,21091.85,Vitória,A,8.0,Bom
+831,69.0,1735.12,Vitória,A,9.4,Bom
+832,74.0,4894.25,Vitória,B,6.7,Bom
+833,70.0,7007.74,Rio de Janeiro,A,9.1,Bom
+834,49.0,27374.43,Rio de Janeiro,A,5.5,Bom
+835,82.0,30267.88,Rio de Janeiro,B,5.1,Bom
+836,73.0,20142.71,Belo Horizonte,A,9.7,Bom
+837,59.0,34106.51,Vitória,A,8.0,Bom
+838,79.0,4466.71,Vitória,A,6.0,Bom
+839,15.0,65635.27,São Paulo,B,2.8,Bom
+840,22.0,42952.77,Rio de Janeiro,A,8.2,Bom
+841,37.0,33736.43,Belo Horizonte,B,6.1,Bom
+842,81.0,6913.82,Rio de Janeiro,B,6.7,Bom
+843,64.0,16026.41,Belo Horizonte,A,7.0,Bom
+844,35.0,30049.36,São Paulo,B,5.8,Bom
+845,75.0,30906.31,Vitória,A,5.9,Bom
+846,34.0,41531.3,Belo Horizonte,B,9.7,Bom
+847,55.0,30148.33,São Paulo,A,5.2,Bom
+848,20.0,3771.38,São Paulo,A,5.4,Bom
+849,35.0,32080.76,Vitória,B,7.6,Bom
+850,29.0,23676.391303030305,Rio de Janeiro,B,9.6,Desconhecido
+851,70.0,23676.391303030305,Vitória,B,7.1,Desconhecido
+852,18.0,34355.95,Belo Horizonte,B,5.7,Bom
+853,21.0,33255.69,Vitória,B,5.6,Bom
+854,17.0,39286.28,Belo Horizonte,B,9.6,Bom
+855,76.0,6360.94,Vitória,A,8.1,Bom
+856,70.0,31021.17,Belo Horizonte,B,5.7,Bom
+857,76.0,9673.94,São Paulo,B,7.1,Bom
+858,25.0,16335.93,São Paulo,A,8.2,Bom
+859,73.0,10990.4,Belo Horizonte,B,9.5,Bom
+860,76.0,8381.09,Vitória,B,6.4,Bom
+861,73.0,43647.76,Belo Horizonte,A,9.4,Bom
+862,82.0,29944.31,São Paulo,A,7.7,Bom
+863,16.0,27345.75,Rio de Janeiro,A,9.8,Bom
+864,49.0,5888.38,São Paulo,A,8.3,Bom
+865,74.0,1917.94,Vitória,A,6.9,Bom
+866,45.0,22805.49,São Paulo,B,8.1,Bom
+867,64.0,7799.95,Rio de Janeiro,A,9.3,Bom
+868,38.0,31759.71,Rio de Janeiro,B,7.1,Bom
+869,70.0,37210.14,Rio de Janeiro,B,7.5,Bom
+870,74.0,15942.15,Belo Horizonte,A,7.3,Bom
+871,22.0,27330.42,Belo Horizonte,A,9.0,Bom
+872,17.0,38458.89,Belo Horizonte,A,8.4,Bom
+873,81.0,33334.51,Rio de Janeiro,B,7.4,Bom
+874,57.0,23589.26,Belo Horizonte,A,5.4,Bom
+875,29.0,17928.75,Belo Horizonte,A,6.9,Bom
+876,32.0,20815.71,Belo Horizonte,B,5.8,Bom
+877,64.0,24935.8,São Paulo,B,9.9,Bom
+878,62.0,34125.31,Belo Horizonte,B,6.7,Bom
+879,57.0,36089.96,São Paulo,B,5.2,Bom
+880,25.0,12632.9,Belo Horizonte,A,7.7,Bom
+881,49.25480283114257,19345.98,Rio de Janeiro,A,6.2,Bom
+882,20.0,24799.35,Vitória,B,8.3,Bom
+883,16.0,21984.87,Rio de Janeiro,A,7.4330303030303035,Desconhecido
+884,67.0,34977.51,Rio de Janeiro,B,9.9,Bom
+885,42.0,19229.56,Rio de Janeiro,A,6.2,Bom
+886,54.0,43653.3,Rio de Janeiro,B,8.4,Bom
+887,68.0,12703.47,Rio de Janeiro,A,8.0,Bom
+888,46.0,5495.73,Vitória,A,8.9,Bom
+889,48.0,4515.63,Vitória,B,8.2,Bom
+890,57.0,40668.44,Belo Horizonte,B,5.1,Bom
+891,20.0,36789.19,São Paulo,B,5.8,Bom
+892,48.0,23815.73,Rio de Janeiro,B,7.4,Bom
+893,26.0,35460.82,Belo Horizonte,A,7.2,Bom
+894,20.0,1853.8,Rio de Janeiro,A,5.3,Bom
+895,33.0,23676.391303030305,São Paulo,A,5.9,Desconhecido
+896,71.0,44624.65,São Paulo,B,6.2,Bom
+897,25.0,33247.67,São Paulo,B,5.6,Bom
+898,54.0,16561.02,São Paulo,B,6.3,Bom
+899,38.0,39670.57,São Paulo,B,9.0,Bom
+900,23.0,25583.38,Rio de Janeiro,B,8.5,Bom
+901,51.0,9814.72,Vitória,A,8.6,Bom
+902,61.0,20212.27,Belo Horizonte,B,5.6,Bom
+903,55.0,37197.1,Belo Horizonte,A,8.3,Bom
+904,55.0,16578.92,Vitória,A,10.0,Bom
+905,47.0,23175.09,Vitória,A,9.7,Bom
+906,50.0,6960.52,São Paulo,B,7.8,Bom
+907,20.0,4595.24,São Paulo,A,8.4,Bom
+908,32.0,45286.34,Belo Horizonte,B,7.3,Bom
+909,55.0,16372.3,Belo Horizonte,B,5.4,Bom
+910,67.0,34281.43,Belo Horizonte,B,9.1,Bom
+911,77.0,24104.02,Vitória,B,7.5,Bom
+912,65.0,43966.47,São Paulo,B,5.5,Bom
+913,39.0,31577.91,Belo Horizonte,Desconhecido,5.6,Desconhecido
+914,58.0,5805.84,Belo Horizonte,A,7.0,Bom
+915,60.0,36554.73,São Paulo,B,7.1,Bom
+916,32.0,21600.53,Vitória,B,7.1,Bom
+917,32.0,14377.16,Vitória,A,6.8,Bom
+918,54.0,6069.24,Rio de Janeiro,A,9.4,Bom
+919,58.0,33664.45,São Paulo,A,6.6,Bom
+920,36.0,10181.82,Rio de Janeiro,A,5.2,Bom
+921,74.0,26813.1,Belo Horizonte,A,5.7,Bom
+922,38.0,13480.56,Rio de Janeiro,B,9.2,Bom
+923,70.0,3336.88,Belo Horizonte,A,7.2,Bom
+924,64.0,34020.11,Vitória,B,9.3,Bom
+925,57.0,12172.46,São Paulo,A,9.0,Bom
+926,27.0,26078.85,São Paulo,A,7.4,Bom
+927,80.0,2149.61,Belo Horizonte,A,7.8,Bom
+928,47.0,40942.41,Belo Horizonte,Desconhecido,5.9,Desconhecido
+929,30.0,35376.18,Vitória,A,5.1,Bom
+930,59.0,29976.95,Belo Horizonte,B,9.2,Bom
+931,37.0,40570.55,Vitória,A,8.7,Bom
+932,80.0,31584.71,Rio de Janeiro,A,8.6,Bom
+933,64.0,8966.77,São Paulo,A,6.9,Bom
+934,25.0,44130.42,São Paulo,B,7.5,Bom
+935,60.0,6446.07,Vitória,B,5.4,Bom
+936,24.0,30533.45,Rio de Janeiro,B,6.2,Bom
+937,35.0,25562.83,São Paulo,A,8.5,Bom
+938,50.0,31187.03,Belo Horizonte,A,7.9,Bom
+939,79.0,12611.39,Vitória,A,6.0,Bom
+940,45.0,6573.33,Belo Horizonte,A,8.6,Bom
+941,72.0,45307.65,Rio de Janeiro,A,8.5,Bom
+942,37.0,17211.26,Rio de Janeiro,B,8.5,Bom
+943,19.0,11415.83,São Paulo,B,6.7,Bom
+944,40.0,14521.65,São Paulo,A,7.8,Bom
+945,75.0,23594.48,Rio de Janeiro,A,8.2,Bom
+946,53.0,2078.59,Rio de Janeiro,B,7.4330303030303035,Desconhecido
+947,43.0,22437.3,Rio de Janeiro,A,5.3,Bom
+948,75.0,34944.73,São Paulo,A,8.0,Bom
+949,74.0,28947.34,Rio de Janeiro,B,6.1,Bom
+950,79.0,26045.39,Vitória,B,5.9,Bom
+951,44.0,32995.81,Belo Horizonte,A,5.5,Bom
+952,45.0,44473.85,São Paulo,B,7.8,Bom
+953,52.0,30070.8,Vitória,A,7.4,Bom
+954,53.0,23113.87,Vitória,B,8.5,Bom
+955,61.0,13927.79,Belo Horizonte,B,9.0,Bom
+956,61.0,41319.14,São Paulo,A,6.4,Bom
+957,44.0,23379.29,São Paulo,A,5.1,Bom
+958,34.0,12386.21,Vitória,A,8.7,Bom
+959,56.0,4016.64,Vitória,A,8.1,Bom
+960,18.0,9820.58,São Paulo,A,8.8,Bom
+961,60.0,32432.09,São Paulo,B,6.9,Bom
+962,73.0,1589.52,São Paulo,A,6.3,Bom
+963,18.0,9780.52,Belo Horizonte,A,7.3,Bom
+964,53.0,18404.78,Belo Horizonte,A,6.4,Bom
+965,65.0,11906.42,Vitória,A,5.0,Bom
+966,18.0,7346.16,Belo Horizonte,B,6.6,Bom
+967,45.0,28259.89,São Paulo,B,6.6,Bom
+968,79.0,20837.54,Belo Horizonte,A,8.6,Bom
+969,47.0,26323.67,Belo Horizonte,B,6.8,Bom
+970,18.0,23536.47,Belo Horizonte,B,5.8,Bom
+971,50.0,8523.17,Vitória,A,8.6,Bom
+972,41.0,36611.44,Vitória,B,6.6,Bom
+973,17.0,21203.14,Desconhecido,B,8.7,Bom
+974,38.0,35524.45,Belo Horizonte,B,7.2,Bom
+975,50.0,29770.78,Rio de Janeiro,B,9.6,Bom
+976,25.0,40224.89,Belo Horizonte,B,9.3,Bom
+977,78.0,17734.62,São Paulo,B,6.6,Bom
+978,42.0,5548.85,Vitória,A,5.8,Bom
+979,40.0,1931.38,Rio de Janeiro,B,9.4,Bom
+980,33.0,16181.5,Rio de Janeiro,B,7.8,Bom
+981,42.0,14890.46,Vitória,A,9.3,Bom
+982,38.0,7939.49,Rio de Janeiro,B,9.4,Bom
+983,39.0,19812.23,São Paulo,A,7.4,Bom
+984,42.0,6995.27,Rio de Janeiro,A,9.3,Bom
+985,68.0,17206.39,Rio de Janeiro,A,6.4,Bom
+986,36.0,2095.91,Vitória,A,6.8,Bom
+987,77.0,32181.72,São Paulo,B,9.1,Bom
+988,69.0,24192.63,Rio de Janeiro,B,7.2,Bom
+989,67.0,27881.95,Belo Horizonte,A,6.0,Bom
+990,24.0,40119.68,Belo Horizonte,A,5.7,Bom
+991,40.0,3178.46,São Paulo,B,8.3,Bom
+992,51.0,26780.15,Vitória,A,9.7,Bom
+993,47.0,43801.2,São Paulo,A,6.1,Bom
+994,34.0,33105.37,São Paulo,A,7.6,Bom
+995,30.0,10855.95,Belo Horizonte,A,8.8,Bom
+996,63.0,21830.03,Vitória,B,5.0,Bom
+997,29.0,7085.04,Rio de Janeiro,A,6.5,Bom
+998,41.0,18704.87,Rio de Janeiro,B,8.7,Bom
+999,18.0,23839.22,São Paulo,B,9.0,Bom
+1000,35.0,36218.87,São Paulo,B,6.5,Bom
